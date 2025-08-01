@@ -67,7 +67,7 @@ const EcommerceEditProduct = () => {
             color="primary"
             onClick={() => {
               console.log("Data disimpan!");
-              router.push("/dashboard");
+              router.push("/");
             }}
           >
             Simpan perubahan
