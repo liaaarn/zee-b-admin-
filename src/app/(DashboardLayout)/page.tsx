@@ -6,10 +6,9 @@ import PageContainer from "@/app/components/container/PageContainer";
 import InformasiPenjualan from "@/app/components/dashboard/InformasiPenjualan";
 import YearlyBreakup from "@/app/components/dashboard/YearlyBreakup";
 import SellingProducts from "@/app/components/dashboard/BestSelling";
-import InfomasiPesanan from "@/app/components/dashboard/InformasiPesanan";
+import InformasiPesanan from "@/app/components/dashboard/InformasiPesanan";
 import Menu from "@/app/components/dashboard/Menu";
 import TotalPendapatan from "@/app/components/dashboard/TotalPendapatan";
-import InformasiPesanan from "@/app/components/dashboard/InformasiPesanan";
 
 export default function Dashboard() {
   return (
